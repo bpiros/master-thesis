@@ -2,7 +2,6 @@
 
 ## A financial tracking Android app with Ktor backend
 This project was my thesis for my Master degree. I wrote both the mobile app and backend in **Kotlin**. I made it in MVVM architecture with dependecy injection (**Dagger 2**).
-The code is private, here I just share the details about the project.
 
 ### Features
 * **Registration, login, logout**
